@@ -288,3 +288,11 @@ defaults:
       comments:  true
       share: true
       related: true
+      
+# side bar menu
+docs:
+  - title: JAVA
+    children:
+      - title: "Java 기초"
+        url: java/
+        category: "JAVA"
