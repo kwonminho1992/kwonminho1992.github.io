@@ -2,9 +2,6 @@
 title: "JAVA 공식문서 읽는 법"
 categories:
   - Java Basic
-tags:
-  - java
-  - java document
 toc: true
 toc_sticky: true
 toc_label: "table of contents"
