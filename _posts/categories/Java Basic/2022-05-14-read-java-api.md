@@ -8,7 +8,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "table of contents"
-toc_icon: "sticky-note"
+last_modified_at: 2022-05-14
 ---
 
 # JAVA 공식문서 읽는 법
