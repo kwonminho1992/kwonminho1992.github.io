@@ -11,8 +11,6 @@ toc_label: "table of contents"
 last_modified_at: 2022-05-14
 ---
 
-# JAVA 공식문서 읽는 법
-
 ### 서론
 
 자바로 개발을 하다보면 기본 라이브러리에서 제공하는 메서드 등을 사용할 때가 자주 생긴다. <br>

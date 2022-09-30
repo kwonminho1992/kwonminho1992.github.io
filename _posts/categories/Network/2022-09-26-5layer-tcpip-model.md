@@ -11,8 +11,6 @@ toc_label: "table of contents"
 last_modified_at: 2022-09-26
 ---
 
-# 5 layer TCP/IP model
-
 ### 기본설명
 
 네트워크 모델에는 크게 OSI 7 layer model, TCP/IP model 두가지가 있다. <br>

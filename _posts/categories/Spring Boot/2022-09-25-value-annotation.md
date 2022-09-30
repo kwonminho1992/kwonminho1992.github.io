@@ -10,8 +10,6 @@ toc_label: "table of contents"
 last_modified_at: 2022-09-25
 ---
 
-# @Value annotation
-
 Spring Boot로 개발을 할 때 편리한 점은 대부분의 설정을 application.properties 파일 (or yaml 파일) 하나에 몰아서 관리할 수 있다는 점이다. <br>
 예를 들어 파일 다운로드 로직을 구현할 때, 파일을 다운로드하는 주소는 클래스 안에 직접 코딩할 수도 있다. 하지만 설정파일 하나에만 적어서 관리한다면 <br>
 파일을 다운로드 받는 경로를 바꿔야 할 때, 설정파일에 써놓은 주소만 바꾸면 끝나기 때문에 유지 보수에 매우 편리할 것이다. 스프링부트에서는 이를 <br> 도와주는 annotation이 @Value이다. 사용법은 정말 간단하다.
