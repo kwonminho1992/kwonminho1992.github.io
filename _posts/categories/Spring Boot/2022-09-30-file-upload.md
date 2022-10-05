@@ -167,9 +167,7 @@ public class DiaryController {
       client.setClientId(clientId);
       d.setClient(client);
       diaryService.writeDiary(d, files);
-      ResultBean<?> resultBean = new ResultBean(SuccessCode.SUCCESS_TO_WRITE);
-      resultBean.setLoginInfo(clientId);
-      return new ResponseEntity<>(resultBean, HttpStatus.OK);
+      return new ResponseEntity<>(HttpStatus.OK);
     }
   }
 ```
