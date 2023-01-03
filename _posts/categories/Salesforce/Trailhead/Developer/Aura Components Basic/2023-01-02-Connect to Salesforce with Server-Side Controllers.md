@@ -14,7 +14,7 @@ last_modified_at: 2023-01-02
 
 ### 들어가며
 
-이 포스트는 세일즈포스 트레일헤드 中 [Aura Components Basics](https://trailhead.salesforce.com/ko/content/learn/modules/lex_dev_lc_basics) 모듈의 [Connect to Salesforce with Server-Side Controllers](https://trailhead.salesforce.com/ko/content/learn/modules/lex_dev_lc_basics/lex_dev_lc_basics_server) 트레일의 하위 모듈이다. <br><br>
+이 포스트는 세일즈포스 트레일헤드 中 [Aura Components Basics](https://trailhead.salesforce.com/ko/content/learn/modules/lex_dev_lc_basics) 모듈의 [Connect to Salesforce with Server-Side Controllers](https://trailhead.salesforce.com/ko/content/learn/modules/lex_dev_lc_basics/lex_dev_lc_basics_server) 를 설명한다. 참고로 해당 모듈은 [Developer Intermediate](https://trailhead.salesforce.com/ko/content/learn/trails/force_com_dev_intermediate) 트레일의 하위 모듈이다.<br><br>
 요구하는 과제는 아래와 같다. <br>
 ![00](https://user-images.githubusercontent.com/69135840/210201936-87f8adae-0400-4c22-856b-4ff1a64e1b77.png)<br><br>
 
