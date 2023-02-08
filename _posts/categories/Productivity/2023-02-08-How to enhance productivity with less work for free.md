@@ -1,0 +1,44 @@
+---
+title: "Boost Productivity 10 times with Less Effort for Free"
+categories:
+  - Productivity
+tags:
+  - Productivity
+  - Google Keep
+toc: true
+toc_sticky: true
+toc_label: "table of contents"
+last_modified_at: 2023-02-08
+---
+
+### The Effect of Google Keep
+
+Are you feeling overwhelmed with too many tasks every day? Are you anxious about having too many tasks? It's a good time to check if you are organizing your tasks well. Maybe, you have heard about to do list. It is an efficient tool to recognize which tasks you need to do or don't need to do. <br>
+You can use Google Keep as to do list for free. You need to prepare only Google account. That's all. By using Google Keep, you can enhance your productivity by at least ten times and work less.
+
+### How to Use Google Keep?
+
+First, login to your Google account. And then click Google Keep button like below.<br>
+![00](https://user-images.githubusercontent.com/69135840/217460191-2df8343f-3791-41b9-9ecc-976bc760d5fb.png)<br><br>
+
+Click Edit labels button and create labels - Bucket list, Daily To do list, Old Daily to do list. <br>
+![01](https://user-images.githubusercontent.com/69135840/217460707-8f9f55c1-5fde-4e8a-9c4c-a74e12493d6e.png)<br>
+![02](https://user-images.githubusercontent.com/69135840/217461149-ea91f686-5898-479f-977a-c26cfbb66958.png)<br><br>
+If you created the labels successfully, the labels are going to be appeared like below.<br>
+![03](https://user-images.githubusercontent.com/69135840/217461154-0a62bca4-3d6d-47a8-9a51-7f25916123b8.png)<br><br>
+Now, we will create note on Daily To do list. Enter Daily To do list label and click the red box I've drawn<br>
+![04](https://user-images.githubusercontent.com/69135840/217462419-fff8d520-c33f-4c07-842c-1c9875c24e7f.png)<br><br>
+Type 'Dump to do list' into Title. And then insert your tasks you need to do or will do in the near future, but not today. For example, if you need to go hospital 3 days later, you can insert 'Jan. 23, 2023 11:00~13:00 Go to hospital'. However, if you will meet a friend today, you do not insert. The screenshot below is an example. <br>
+![05](https://user-images.githubusercontent.com/69135840/217465338-715dab56-f0af-4325-9ba5-bf2a0274323d.png)<br>
+You can add tasks into Dump to do list note anytime when you have tasks.<br><br>
+Next, you create daily to do list note on Daily To do list label. Type today's date into Title. And then insert your today's tasks. (you can refer Dump Daily to do list note.) You'd better organize today's to do list at the morning before you start to work. Of course, you can add tasks in the middle of today if additional tasks occur. When you complete one work, you can check the work to notify that you complete it.<br>
+![06](https://user-images.githubusercontent.com/69135840/217471535-8eb570ac-156c-481b-957b-60d215e6f8b0.png)<br>
+This is an example of daily to do list note. If the tasks have specific time, you write like '06:30~07:30 exercise', '14:00~15:00 meeting with Mike'.
+If not, you just need to set priority for the tasks. In the example, you need to complete in order of top, medium, low. But, top1, top2, top3, low1, low2... is also possible. In this case, you can do flexibly between top1~3...<br>
+As time goes, too many daily to do list notes are going to be piled up. So, you'd better change old notes to the Old Daily To-Do List label.<br><br>
+Bucket list label is additional. If you have long-term dreams like marathon, traveling Amazon etc.., you can note them to remember easily.<br><br>
+
+#### How to interlock my Google Keep between Desktop and Mobile
+
+If you use Google Keep on desktop only, it will be very very uncomfortable. Fortunately, you can interlock Google Keep very easily.
+If you login into your mobile device with the same account for Desktop, it is going to be interlocked automatically. You can access your Google Keep data on any device, just need log in.
